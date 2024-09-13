@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Stefane Lohanna Medeiros Guedes
+* Email (@ccc): stefane.lohanna.medeiros.guedes@ccc.ufcg.edu.br
+* Matrícula: 123110659
 
 # Roteiro: Fila de Prioridade
 
